@@ -14,23 +14,23 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Apikey kalian', // Masukin apikey kalian
+	'https://zenzapis.xyz': 'Apikey Kalian', // Masukin apikey kalian disini
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6281241100804','6281241100804','6281241100804']
+global.premium = ['6281241100804']
+global.ownernomer = '6281241100804'
+global.ownername = 'I Am Nelson'
+global.botname = 'NelBot-Md'
+global.footer = 'I Am Nelson'
+global.ig = 'https://instagram.com/nelson_randanan'
+global.email = 'nelsonrandanan@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.packname = 'NelBot-Md'
+global.author = 'By Nelson'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
